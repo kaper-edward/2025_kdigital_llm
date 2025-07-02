@@ -24,6 +24,8 @@ dist-ssr
 *.sw?
 
 .env
-app_ui/
+*.json
 
+app_ui/
+utils/exam/
 __pycache__/
